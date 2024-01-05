@@ -1,6 +1,6 @@
 .github
 └── ISSUE_TEMPLATE
-    ├── bug_report.md
+    ├── Authentication.md
     ├── feature_request.md
     ├── documentation.md
     └── custom_component.md
