@@ -1,6 +1,4 @@
 .github
 └── ISSUE_TEMPLATE
     ├── Authentication.md
-    ├── feature_request.md
-    ├── documentation.md
-    └── custom_component.md
+    ├── security-best-practices.md
